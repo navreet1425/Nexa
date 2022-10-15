@@ -401,3 +401,4 @@ module.exports = {
 client.login(process.env.Token);
 
 //Completed 
+//iN Token u have to put token of your discord bot 
