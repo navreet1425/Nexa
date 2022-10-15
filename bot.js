@@ -76,9 +76,7 @@ client.on("message", message => {
   if (message.content === "Wtf" || message.content === "wtf" || message.content === "WTF") {
     message.channel.send("Fuck Off")
   }
-  if (message.content === 'Nou' || message.content === 'no u' || message.content === 'nou') {
-    message.channel.send("Tu Hi Hai Bhai Nou Nou mat kar")
-  }
+ 
   if (message.content === "KS" || message.content === "ks" || message.content === "Killer spree" || message.content === "killer spree") {
     message.channel.send("VC AJAO AGAR GANDU BOLNA HAI TO")
   }
